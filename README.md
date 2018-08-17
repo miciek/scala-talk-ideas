@@ -18,27 +18,27 @@ Please let me know here or send an e-mail to [Kraków Scala User Group organizer
 | Integration testing with [testcontainers-scala](https://github.com/testcontainers/testcontainers-scala) |            |         |
 | The landscape of testing libraries in Scala                    | [scalatest](http://www.scalatest.org/), [specs2](https://etorreborre.github.io/specs2/), [testz](https://github.com/scalaz/testz)           |
 | I just want to compile it! aka “[SBT](https://www.scala-sbt.org/) made simple”               |            |
-| Formatting Scala code using scalafmt                           |            |
-| Building reactive UIs with Scala.js and AkkaUI                 |            |
-| How do the Scala collections work?                             |            |
-| Getting metrics out of your Scala service                      |            |
-| Being Scala DevOps                                             |            |
-| Scala 3 as your first Scala                                    |            |
-| Building React components in Scala.js                          |            |
-| Stop using exceptions now                                      |            |
+| Formatting Scala code using [scalafmt](https://scalameta.org/scalafmt/)                           |            |
+| Building reactive UIs with [Scala.js](https://www.scala-js.org/) and [AkkaUI](https://github.com/pishen/akka-ui)                 |            |
+| How do the [Scala collections](https://docs.scala-lang.org/overviews/collections/overview.html) work?                             |            |
+| Getting metrics out of your Scala service                      | [kamon](https://github.com/kamon-io/Kamon), [prometheus](https://prometheus.io/), [grafana](https://grafana.com/)           |
+| Being Scala DevOps                                             | [orkestra](https://orkestra.tech/)           |
+| [Scala 3](https://www.scala-lang.org/blog/2018/04/19/scala-3.html) as your first Scala                                    |            |
+| Building React components in Scala.js                          | [scalajs-react](https://japgolly.github.io/scalajs-react/)           |
+| Stop using exceptions now                                      | [Try](https://www.scala-lang.org/api/2.12.3/scala/util/Try.html)           |
 | To mock or not to mock in your scala tests                     |            |
-| Using gRPC in Scala                                            |            |
-| The magic behind pattern matching                              |            |
+| Using gRPC in Scala                                            | [ScalaPB](https://scalapb.github.io/)            |
+| The magic behind [pattern matching](https://docs.scala-lang.org/tour/pattern-matching.html)                              |            |
 | Polymorphism vs composition in Scala                           |            |
 | Builder pattern in Scala - implementation techniques           |            |
 | Introduction to Scala ecosystem                                |            |
-| Stateful computations with Apache Flink                        |            |
-| Integrating with RxJava APis in Scala                          |            |
-| Power up your code with Option                                 |            |
+| Stateful computations with [Flink](https://flink.apache.org/)                        |            |
+| Integrating with [RxJava](https://github.com/ReactiveX/RxJava) APis in Scala                          |            |
+| Power up your code with [Option](https://www.scala-lang.org/api/current/scala/Option.html)                                 |            |
 | The biggest pains of beginner Scala developer                  |            |
-| Handling dates & times in Scala web applications               |            |
-| Handling geo data using GeoTrellis                             |            |
-| Integrating with Kafka using Akka                              |            |
+| Handling dates & times in Scala web applications               | [scala-js-java-time](https://github.com/scala-js/scala-js-java-time)           |
+| Handling geo data using [GeoTrellis](https://geotrellis.io/)                             |            |
+| Integrating with [Kafka](https://kafka.apache.org/) using [Akka](https://akka.io/)                              | [alpakka-kafka](https://github.com/akka/alpakka-kafka)            |
 
 ### Intermediate level
 | Title                                                          | Additional keywords           |
