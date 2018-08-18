@@ -16,7 +16,7 @@ Please let me know here or send an e-mail to [Kraków Scala User Group organizer
 | Title                                                          | Additional keywords           |
 |----------------------------------------------------------------|-------------------------------|
 | Integration testing with [testcontainers-scala](https://github.com/testcontainers/testcontainers-scala) |            |         |
-| The landscape of testing libraries in Scala                    | [scalatest](http://www.scalatest.org/), [specs2](https://etorreborre.github.io/specs2/), [testz](https://github.com/scalaz/testz)           |
+| The landscape of testing libraries in Scala                    | [scalatest](http://www.scalatest.org/), [specs2](https://etorreborre.github.io/specs2/), [testz](https://github.com/scalaz/testz), [minitest](https://github.com/monix/minitest)           |
 | I just want to compile it! aka “[SBT](https://www.scala-sbt.org/) made simple”               |            |
 | Formatting Scala code using [scalafmt](https://scalameta.org/scalafmt/)                           |            |
 | Building reactive UIs with [Scala.js](https://www.scala-js.org/) and [AkkaUI](https://github.com/pishen/akka-ui)                 |            |
