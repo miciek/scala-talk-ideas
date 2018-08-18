@@ -43,41 +43,41 @@ Please let me know here or send an e-mail to [Kraków Scala User Group organizer
 ### Intermediate level
 | Title                                                          | Additional keywords           |
 |----------------------------------------------------------------|-------------------------------|
-| IO vs Future - why should I care?                              |        |
-| 7 sins of implicits                                            |        |
-| Getting started with TensorFlow in Scala                       |        |
-| Practical introduction to lenses                               |        |
-| Benchmarking scala code                                        |        |
-| Introduction to Linkerd service mesh                           |        |
-| Handling state with Monix Atomic and Scheduler                 |        |
+| IO vs Future - why should I care?                              | [cats-effect](https://github.com/typelevel/cats-effect), [zio](https://github.com/scalaz/scalaz-zio), [Future](https://www.scala-lang.org/api/2.12.3/scala/concurrent/Future.html)       |
+| 7 sins of implicits                                            | [implicit parameters](https://docs.scala-lang.org/tour/implicit-parameters.html), [implicit conversions](https://docs.scala-lang.org/tour/implicit-conversions.html), [design patterns](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)       |
+| Getting started with [TensorFlow in Scala](http://platanios.org/tensorflow_scala/)                       |        |
+| Practical introduction to lenses                               | [monocle](https://github.com/julien-truffaut/Monocle), [quicklens](https://github.com/adamw/quicklens)       |
+| Benchmarking scala code                                        | [sbt-jmh](https://github.com/ktoso/sbt-jmh)       |
+| Introduction to [Linkerd service mesh](https://linkerd.io/)                           |        |
+| Handling state with Monix [Atomic](https://monix.io/docs/2x/execution/atomic.html) and [Scheduler](https://monix.io/docs/2x/execution/scheduler.html)                 |        |
 | Why do we need Nothing type?                                   |        |
-| When should you write your own macro?                          |        |
+| When should you write your own macro?                          | [scala macros](https://www.scala-lang.org/blog/2017/11/27/macros.html), [scalameta](https://scalameta.org/), [scala 3](https://www.scala-lang.org/blog/2018/04/19/scala-3.html)       |
 | Handling distributed transactions in microservice world        |        |
-| Why do I need refinment types?                                 |        |
-| Real-world cases for property-based tests                      |        |
-| Serializing JSON using Circe auto, semi-auto and manual modes  |        |
-| Aux pattern explained                                          |        |
+| Why do I need refinment types?                                 | [refined](https://github.com/fthomas/refined)       |
+| Real-world cases for property-based tests                      | [scalacheck](https://www.scalacheck.org/)       |
+| Serializing JSON using Circe auto, semi-auto and manual modes  | [circe codec](https://circe.github.io/circe/codec.html)       |
+| [Aux pattern](https://gigiigig.github.io/posts/2015/09/13/aux-pattern.html) explained                                          |        |
 | Phantom types explained                                        |        |
-| Refactoring and linting with Scalafix                          |        |
-| Configuring your app with pureconfig                           |        |
-| Getting closer to bare metal with Scala native                 |        |
-| Developing APIs with a sip of Sangria and GraphQL              |        |
-| Why do you need Alpakka?                                       |        |
-| What’s new in Scala 2.13 collections?                          |        |
-| Using Finagle and fintrospect                                  |        |
+| Refactoring and linting with [Scalafix](https://scalacenter.github.io/scalafix/)                          |        |
+| Configuring your app with [pureconfig](https://pureconfig.github.io/)                           |        |
+| Getting closer to bare metal with [Scala Native](https://pureconfig.github.io/)                 |        |
+| Developing APIs with a sip of [Sangria](https://sangria-graphql.org/) and [GraphQL](https://graphql.org/learn/)              |        |
+| Why do you need [Alpakka](https://github.com/akka/alpakka)?                                       |        |
+| What’s new in [Scala 2.13 collections](https://www.scala-lang.org/blog/2017/02/28/collections-rework.html)?                          |        |
+| Using [Finagle](https://twitter.github.io/finagle/) and [fintrospect](http://fintrospect.io/) to create documented Web APIs                                  |        |
 
 ### Advanced level
 | Title                                                          | Additional keywords           |
 |----------------------------------------------------------------|-------------------------------|
-| The HTTP wars - how to choose HTTP lib for your Scala service  |            |
-| Building type-level web APIs using typedapi                    |            |
-| Deep dive into Scala collections                               |            |
-| Abstracting your needs with cats-effect, cats-mtl and meow-mtl |            |
-| Should we fear Scala 3?                                        |            |
+| The HTTP wars - how to choose HTTP lib for your Scala service  | [akka-http](https://doc.akka.io/docs/akka-http/current/), [finagle](https://twitter.github.io/finagle/), [cask](https://github.com/lihaoyi/cask), [http4s](https://http4s.org/), [typedapi](https://github.com/pheymann/typedapi)            |
+| Building type-level web APIs using [typedapi](https://github.com/pheymann/typedapi)                    |            |
+| Deep dive into [Scala collections](https://docs.scala-lang.org/overviews/collections/overview.html)                               |            |
+| Abstracting your needs with [cats-effect](https://github.com/typelevel/cats-effect), [cats-mtl](https://github.com/typelevel/cats-mtl) and [meow-mtl](https://github.com/oleg-py/meow-mtl) |            |
+| Should we fear [Scala 3](https://www.scala-lang.org/blog/2018/04/19/scala-3.html)?                                        |            |
 | Trampolines and stack safety                                   |            |
-| GraalVM and Scala                                              |            |
-| Introduction to concurrency using Scala & Cats                 |            |
-| Introduction to doobie for data access                         |            |
+| [GraalVM](https://www.graalvm.org/) and Scala                                              |            |
+| Introduction to concurrency using Scala & Cats                 | [cats-effect](https://github.com/typelevel/cats-effect)           |
+| Introduction to [doobie](https://tpolecat.github.io/doobie/) for data access                         |            |
 
 
 
