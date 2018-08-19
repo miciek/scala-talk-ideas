@@ -65,6 +65,7 @@ Please let me know here or send an e-mail to [Kraków Scala User Group organizer
 | Why do you need [Alpakka](https://github.com/akka/alpakka)?                                       |        |
 | What’s new in [Scala 2.13 collections](https://www.scala-lang.org/blog/2017/02/28/collections-rework.html)?                          |        |
 | Using [Finagle](https://twitter.github.io/finagle/) and [fintrospect](http://fintrospect.io/) to create documented Web APIs                                  |        |
+| [Kafka 2.0](https://kafka.apache.org/downloads#2.0.0) in Scala                              | | 
 
 ### Advanced level
 | Title                                                          | Additional keywords           |
