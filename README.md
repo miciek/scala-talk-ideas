@@ -70,7 +70,7 @@ Please let me know here or send an e-mail to [Kraków Scala User Group organizer
 ### Advanced level
 | Title                                                          | Additional keywords           |
 |----------------------------------------------------------------|-------------------------------|
-| The HTTP wars - how to choose HTTP lib for your Scala service  | [akka-http](https://doc.akka.io/docs/akka-http/current/), [finagle](https://twitter.github.io/finagle/), [cask](https://github.com/lihaoyi/cask), [http4s](https://http4s.org/), [typedapi](https://github.com/pheymann/typedapi)            |
+| The HTTP wars - how to choose HTTP lib for your Scala service  | [akka-http](https://doc.akka.io/docs/akka-http/current/), [finagle](https://twitter.github.io/finagle/), [cask](https://github.com/lihaoyi/cask), [http4s](https://http4s.org/), [typedapi](https://github.com/pheymann/typedapi), [colossus](https://github.com/tumblr/colossus), [finatra](https://twitter.github.io/finatra/)            |
 | Building type-level web APIs using [typedapi](https://github.com/pheymann/typedapi)                    |            |
 | Deep dive into [Scala collections](https://docs.scala-lang.org/overviews/collections/overview.html)                               |            |
 | Abstracting your needs with [cats-effect](https://github.com/typelevel/cats-effect), [cats-mtl](https://github.com/typelevel/cats-mtl) and [meow-mtl](https://github.com/oleg-py/meow-mtl) |            |
